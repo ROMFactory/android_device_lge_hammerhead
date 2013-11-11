@@ -270,4 +270,5 @@
 
     <!-- Enable flashlight -->
     <bool name="config_enableTorch">true</bool>
+
 </resources>
